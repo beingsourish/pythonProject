@@ -1,6 +1,6 @@
 import random
 import time
-
+###hiii merge conflict####
 print("Enter your choiGoce ""\n" "1: Sourish ""\n"
       "2: Salman ""\n"
       "3: Mahesh babu ""\n")
